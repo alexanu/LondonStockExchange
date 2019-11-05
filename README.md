@@ -1,2 +1,2 @@
 # LondonStockExchange
-Gathering data from the LSEX
+Gathering data from the LSEX, more to follow ...
