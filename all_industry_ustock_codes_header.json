@@ -1,0 +1,19 @@
+{
+    "WSJMXUSAGRI": "Agriculture",
+    "WSJMXUSAUTO": "Automotive",
+    "WSJMXUSBSC": "Basic Materials/Resources",
+    "WSJMXUSCYC": "Business/Consumer Services",
+    "WSJMXUSNCY": "Consumer Goods",
+    "WSJMXUSENE": "Energy",
+    "WSJMXUSFCL": "Financial Services",
+    "WSJMXUSHCR": "Health Care/Life Sciences",
+    "WSJMXUSIDU": "Industrial Goods",
+    "WSJMXUSLEAH": "Leisure/Arts/Hospitality",
+    "WSJMXUSMENT": "Media/Entertainment",
+    "WSJMXUSRECN": "Real Estate/Construction",
+    "WSJMXUSRTWS": "Retail/Wholesale",
+    "WSJMXUSTEC": "Technology",
+    "WSJMXUSTEL": "Telecommunication Services",
+    "WSJMXUSTRSH": "Transportation/Logistics",
+    "WSJMXUSUTI": "Utilities"
+}
